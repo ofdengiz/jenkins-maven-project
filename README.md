@@ -1,6 +1,6 @@
 # jenkins-maven-project
 
-Jenkins declarative pipeline that builds and tests a Maven Java application (`hello-app`). Warm-up exercise covering the core Jenkins → Maven → JUnit loop.
+Jenkins declarative pipeline that builds and tests a Maven Java application (`hello-app`). Reference for the core Jenkins → Maven → JUnit loop.
 
 **Stack:** Jenkins · Maven · Java · JUnit
 
